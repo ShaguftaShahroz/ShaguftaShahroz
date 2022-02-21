@@ -3,6 +3,10 @@
 Hey there 👋,
 
 I am a third year Computer Engineering student with a passion of web development and problem solving. I have a knack for learning and sharing my knowledge with others in a way that's as public as possible. If you found value in something I have created, please feel free to send a tip, give me a shout out [@my_LinkedIn_Account](https://www.linkedin.com/in/shagufta-shahroz-webdesign/).
+
+Coding profiles:
+[@Leetcode](https://leetcode.com/shaguftashahroz09/)
+
 <!--
 **ShaguftaShahroz/ShaguftaShahroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
